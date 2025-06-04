@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <strong> @shitijG118 </strong>
 - 👀 I’m interested in AR/VR Development and open to other fields as well
-- 🌱 I’m currently exploring Augmneted Reality Development using Unity Engine and Vuforia SDK
+- 🌱 I’m currently exploring Augmented Reality Development using Unity Engine and Vuforia SDK
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/shitij_gaur)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shitij-gaur18/)
