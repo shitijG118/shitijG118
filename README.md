@@ -7,19 +7,19 @@
 
 ## Skills
 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="50"/> </a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" height="0"/> </a>
-<a href="https://unity.com/](https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="git" width="50" height="50"/> </a> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="50"/> </a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width = "50" height = "50"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="git" width="50" height="50"/> </a> 
-
+<a href="https://developer.vuforia.com/home" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/fxcXlEZQsYfOfe4PK93kaTmAQXWOEoIQQdZrfEbvU-PkT1PG_0f5nJSVAYi0fImBJNZaGXDx=s900-c-k-c0x00ffffff-no-rj" alt="git" width="50" height="50"/> </a> 
 
 
 
 
 ## Leetcode stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sgaur_18?theme=dark&font=Times_New_Roman)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sgaur_18?theme=dark&font=Calibri)
 
 
 ## Github stats
