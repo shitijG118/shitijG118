@@ -8,7 +8,7 @@
 ## Skills
 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="50"/> </a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" height="50"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="git" width="70" height="70"/> </a> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="git" width="50" height="50"/> </a> 
@@ -19,7 +19,7 @@
 
 ## Leetcode stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sgaur_18?theme=dark&font=Actor)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sgaur_18?theme=dark&font=Arial)
 
 
 ## Github stats
